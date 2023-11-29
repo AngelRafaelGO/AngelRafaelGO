@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.angelrafaelgonzalez.com/](https://www.angelrafaelgonzalez.com/)
 
-- 💬 Ask me about **react, nestjs, docker, sql, postgres, nodejs**
+- 💬 Ask me about **javascript and nodejs topics, design patterns or CI & CD**
 
 - 📫 How to reach me **angelrafael.gonzalez@outlook.com**
 
