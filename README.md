@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">Software Engineer living in Paris</h3>
 
-- 🔭 I’m currently working on **fullstack web application**
+- 🔭 I’m currently working on **fullstack web applications**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS, Redux, RTKquery and Prisma**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
