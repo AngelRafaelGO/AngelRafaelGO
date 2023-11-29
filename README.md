@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
+
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">Software Engineer living in Paris</h3>
 
@@ -23,3 +25,6 @@
 <a href="https://linkedin.com/in/gonzalezangelrafael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzalezangelrafael" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20050300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20050300" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Read some jokes !</h3>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
