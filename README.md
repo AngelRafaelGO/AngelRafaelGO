@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at [https://www.angelrafaelgonzalez.com/](https://www.angelrafaelgonzalez.com/)
+- 👨‍💻 You can checkout my portfolio website here -> [https://www.angelrafaelgonzalez.com/](https://www.angelrafaelgonzalez.com/)
 
 - 💬 Ask me about **javascript and nodejs topics, design patterns or CI & CD**
 
