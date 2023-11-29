@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">Software Engineer living in Paris</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=angelrafaelgo&label=Profile%20views&color=0e75b6&style=flat" alt="angelrafaelgo" /> </p>
-
 - 🔭 I’m currently working on **fullstack web application**
 
 - 🌱 I’m currently learning **NextJS**
