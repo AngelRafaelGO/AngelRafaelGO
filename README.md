@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **fullstack web applications and DevOps projects**
 
-- 🌱 I’m currently learning **NextJS, Redux, RTKquery and Prisma**
+- 🌱 I’m currently learning **Kotlin, SpringBoot and Angular**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
