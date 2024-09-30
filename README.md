@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">Software Engineer living in Paris</h3>
+</br>
 
 - 🔭 I’m currently working on **backend web applications and DevOps projects**
 
